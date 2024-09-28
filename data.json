@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "The Last of Us",
+        "genre": "Action-adventure",
+        "year": 2013
+    },
+    {
+        "id": 2,
+        "name": "Dark Souls",
+        "genre": "Action RPG",
+        "year": 2011
+    },
+    {
+        "id": 3,
+        "name": "Overwatch",
+        "genre": "First-person shooter",
+        "year": 2016
+    },
+    {
+        "id": 4,
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "Action RPG",
+        "year": 2015
+    },
+    {
+        "id": 5,
+        "name": "God of War",
+        "genre": "Action-adventure",
+        "year": 2018
+    },
+    {
+        "id": 6,
+        "name": "Fortnite",
+        "genre": "Battle Royale",
+        "year": 2017
+    },
+    {
+        "id": 7,
+        "name": "Red Dead Redemption 2",
+        "genre": "Action-adventure",
+        "year": 2018
+    },
+    {
+        "id": 8,
+        "name": "Minecraft",
+        "genre": "Sandbox",
+        "year": 2011
+    },
+    {
+        "id": 9,
+        "name": "Hollow Knight",
+        "genre": "Metroidvania",
+        "year": 2017
+    },
+    {
+        "id": 10,
+        "name": "Persona 5",
+        "genre": "JRPG",
+        "year": 2016
+    }
+]
