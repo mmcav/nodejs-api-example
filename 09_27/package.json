@@ -2,9 +2,9 @@
   "dependencies": {
     "express": "^4.21.0"
   },
-  "name": "api-class-example",
+  "name": "09_27",
   "version": "1.0.0",
-  "description": "Repo for the Node Express API example project used in classes.",
+  "description": "",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
