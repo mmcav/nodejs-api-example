@@ -1,3 +1,3 @@
-# node-api-class-projects
+# nodejs-api-projects
 
-Repo for the Node Express API projects developed in classes.
+Repo for the NodeJS Express API projects developed in classes.
